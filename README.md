@@ -64,3 +64,5 @@ arogya-drishti-dashboard/
 └── README.md # Project documentation
 
 📁 Output
+
+![Image](https://github.com/user-attachments/assets/9beb22a5-ec19-4f11-b083-4c92108df3d7)
